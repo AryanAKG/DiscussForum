@@ -1,0 +1,19 @@
+body{
+    position: relative;
+}
+#header{
+    position:sticky;
+    top: 0px;
+    z-index: 50;
+}
+
+#userimage{
+    width: 30px;
+}
+
+#footer{
+    padding: 5px 0;
+}
+#foot{
+    min-height: 350px;
+}
